@@ -5,19 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="585d1460-d490-4773-8e01-46d31d330cfd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Alien Invasion.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/games/Connect.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/games/Pacman.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/games/Pong.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/games/Snake.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/games/Typing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/games/Flappy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,21 +49,22 @@
       <recent name="$PROJECT_DIR$/games" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Connect">
+  <component name="RunManager" selected="Python.Flappy">
     <list>
       <item itemvalue="Python.Connect" />
       <item itemvalue="Python.Pacman" />
       <item itemvalue="Python.Pong" />
       <item itemvalue="Python.Snake" />
       <item itemvalue="Python.Typing" />
+      <item itemvalue="Python.Flappy" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Flappy" />
         <item itemvalue="Python.Pacman" />
         <item itemvalue="Python.Pong" />
         <item itemvalue="Python.Snake" />
         <item itemvalue="Python.Typing" />
-        <item itemvalue="Python.Connect" />
       </list>
     </recent_temporary>
   </component>
